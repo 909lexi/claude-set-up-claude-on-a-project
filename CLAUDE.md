@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This is the starter project for the Claude Code course. 
+A small Express (Node.js) REST API that manages users (list, fetch by id, create) 
 
 ## Set Up
 
